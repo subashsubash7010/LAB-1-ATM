@@ -15,27 +15,32 @@ to withdraw money,deposit.
 
 ## CLASS DIAGRAM :
 
-<img width="1229" height="886" alt="image" src="https://github.com/user-attachments/assets/e0273bb0-90c0-41de-8512-d143476cf2d7" />
+<img width="1233" height="897" alt="444612075-6b358137-f8fa-4667-810c-378e184b6bda" src="https://github.com/user-attachments/assets/0b67bf92-86c5-4dda-b4fc-71ba7a532b36" />
+
 
 
 ## PACKAGE DIAGRAM :
 
-<img width="1229" height="886" alt="image" src="https://github.com/user-attachments/assets/f0ce374e-282a-4004-ae2b-420053a9091c" />
+<img width="1279" height="922" alt="445435398-d6ed9b1d-46a8-4296-9b08-94e2c93876d3" src="https://github.com/user-attachments/assets/83560096-aa4a-4ce4-a3bf-de9393af6cff" />
+
 
 
 ## SEQUENCE DIAGRAM :
 
-<img width="1229" height="886" alt="image" src="https://github.com/user-attachments/assets/f1c0b15c-fe1a-4724-ae27-985189735da9" />
+<img width="1114" height="919" alt="445435547-2d02f2fa-510b-4a63-a5c9-7158dd53d2d1" src="https://github.com/user-attachments/assets/08bfe548-2b7d-4057-bede-bb3ffdb7189c" />
+
 
 
 ## ACTIVITY DIAGRAM :
 
-<img width="1229" height="886" alt="image" src="https://github.com/user-attachments/assets/e124053b-7522-4ce7-b830-c165545cb1f2" />
+<img width="1237" height="1015" alt="488741596-7585cde0-1661-4093-9940-90907fe933a3" src="https://github.com/user-attachments/assets/1fde7630-9f9d-4093-82d6-dca8ce6238c6" />
+
 
 
 ## COMMUNICATION DIAGRAM :
 
-<img width="1229" height="886" alt="image" src="https://github.com/user-attachments/assets/daf27748-7354-4799-952b-2d8582f3d4e2" />
+![Uploading image.png…]()
+
 
 
 ## RESULT: 
