@@ -10,7 +10,8 @@ to withdraw money,deposit.
 
 ## USE CASE DIAGRAM :
 
-<img width="1229" height="886" alt="image" src="https://github.com/user-attachments/assets/5cd31042-8efb-4ff1-b5aa-0ed93062c7c1" />
+<img width="1244" height="962" alt="image" src="https://github.com/user-attachments/assets/a5298bc1-d7e8-4ee3-9597-94e80e9ec05a" />
+
 
 
 ## CLASS DIAGRAM :
