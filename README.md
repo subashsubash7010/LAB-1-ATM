@@ -22,7 +22,7 @@ to withdraw money,deposit.
 
 ## PACKAGE DIAGRAM :
 
-<img width="1279" height="922" alt="445435398-d6ed9b1d-46a8-4296-9b08-94e2c93876d3" src="https://github.com/user-attachments/assets/83560096-aa4a-4ce4-a3bf-de9393af6cff" />
+<img width="1234" height="944" alt="image" src="https://github.com/user-attachments/assets/122ee564-a5dc-46fd-8cac-9cd35acc61c0" />
 
 
 
@@ -46,5 +46,4 @@ to withdraw money,deposit.
 
 ## RESULT: 
 
-Thus the Atm and banking System project was executed and the output was verified.
 Thus the Atm and banking System project was executed and the output was verified.
